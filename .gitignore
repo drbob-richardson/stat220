@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# LaTeX build artifacts (anywhere in the repo)
+*.aux
+*.log
+*.nav
+*.snm
+*.out
+*.toc
+*.synctex.gz
+*.vrb
+*.fls
+*.fdb_latexmk
+
+# --- Lecture Slides ---
+# Students should see ONLY the compiled slide PDFs. Everything else in this
+# folder (LaTeX sources, figures, figure-gen scripts, pptx, build artifacts)
+# stays local/private. Edit & recompile the .tex in place; the resulting
+# Slides_*.pdf is the only thing that gets committed.
+Lecture Slides/*
+!Lecture Slides/Slides_*.pdf
