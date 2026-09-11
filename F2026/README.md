@@ -3,8 +3,6 @@
 Course material, posted unit by unit as we get to it. If a unit is not here yet,
 it is because we have not covered it.
 
-## What is here now
-
 | | |
 |---|---|
 | `220_Syllabus_F2026.pdf` | Grading, exam dates, the AI policy, and what the course covers |
@@ -12,6 +10,7 @@ it is because we have not covered it.
 | `Notebooks/` | Code companions. Every technique from the unit, run on real data, with output |
 | `Homework/` | The assignment notebooks you fill in and submit on Learning Suite |
 | `Practice/` | Multiple-choice practice for the midterm, with answers and explanations |
+| `data/` | Data files used by the assignments |
 
 ## Unit 1: Statistical Inference
 
@@ -22,6 +21,18 @@ of error, power, confidence intervals, and the assumptions all of it rests on.
 - `Notebooks/Code_Unit01_Inference.ipynb`
 - `Homework/Stat_220_HW_Unit01_Inference.ipynb`
 - `Practice/Practice_Inference.pdf`
+
+## Unit 2: A Map of Models
+
+What is on the menu and how to choose. The model families and what each one
+assumes, the difference between a probability model and a non-probability one,
+the five jobs people hand a model, and how to tell whether one model is better
+than another.
+
+- `Slides/Unit_02_A_Map_of_Models.pdf`
+- `Notebooks/Code_Unit02_Map_of_Models.ipynb`
+- `Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb`
+- `Practice/Practice_Models.pdf`
 
 ## How to work the homework
 
@@ -41,4 +52,5 @@ Datasets load straight from the web, so there is nothing to download:
 ```python
 import pandas as pd
 rent = pd.read_csv("https://richardson.byu.edu/220/rent.csv")
+cafe = pd.read_csv("https://drbob-richardson.github.io/stat220/F2026/data/campus_cafe.csv")
 ```
