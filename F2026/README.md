@@ -34,6 +34,17 @@ than another.
 - `Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb`
 - `Practice/Practice_Models.pdf`
 
+## Unit 3: Linear Regression
+
+Fitting a line and reading what it says. What least squares minimizes, a slope with
+its units and its standard error, residual plots, binary and categorical predictors,
+interactions, and what happens to a coefficient when another variable joins the model.
+
+- `Slides/Unit_03_Linear_Regression.pdf`
+- `Notebooks/Code_Unit03_Regression.ipynb`
+- `Homework/Stat_220_HW_Unit03_Regression.ipynb`
+- `Practice/Practice_Regression.pdf`
+
 ## How to work the homework
 
 Each assignment opens with simulated data, where you set the truth yourself and can
