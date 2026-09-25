@@ -45,6 +45,19 @@ interactions, and what happens to a coefficient when another variable joins the 
 - `Homework/Stat_220_HW_Unit03_Regression.ipynb`
 - `Practice/Practice_Regression.pdf`
 
+## Unit 4: Prediction and Choosing Predictors
+
+Using the whole model at once. Predicting a new case, the difference between a
+confidence interval and a prediction interval, extrapolation including combinations
+of values the data never contained, why error on your own rows is too small,
+cross-validation, overfitting and underfitting, and how to decide which predictors
+belong.
+
+- `Slides/Unit_04_Prediction_and_Choosing_Predictors.pdf`
+- `Notebooks/Code_Unit04_Prediction.ipynb`
+- `Homework/Stat_220_HW_Unit04_Prediction.ipynb`
+- `Practice/Practice_Prediction.pdf`
+
 ## How to work the homework
 
 Each assignment opens with simulated data, where you set the truth yourself and can
@@ -64,4 +77,5 @@ Datasets load straight from the web, so there is nothing to download:
 import pandas as pd
 rent = pd.read_csv("https://richardson.byu.edu/220/rent.csv")
 cafe = pd.read_csv("https://drbob-richardson.github.io/stat220/F2026/data/campus_cafe.csv")
+routes = pd.read_csv("https://drbob-richardson.github.io/stat220/F2026/data/delivery_routes.csv")
 ```
