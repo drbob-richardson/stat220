@@ -7,7 +7,7 @@ it is because we have not covered it.
 |---|---|
 | `220_Syllabus_F2026.pdf` | Grading, exam dates, the AI policy, and what the course covers |
 | `Slides/` | The deck for each unit |
-| `Notebooks/` | Code companions. Every technique from the unit, run on real data, with output |
+| `Notebooks/` | Code companions. The main techniques from the unit, run on real data, with output |
 | `Homework/` | The assignment notebooks you fill in and submit on Learning Suite |
 | `Practice/` | Multiple-choice practice for the midterm, with answers and explanations |
 | `data/` | Data files used by the assignments |
