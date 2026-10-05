@@ -58,6 +58,18 @@ belong.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb)
 - **Practice:** [Practice_Prediction.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Prediction.pdf)
 
+## Midterm practice
+
+A full practice midterm in the same shape as the real one: 20 multiple-choice
+questions, then an analysis you work in a notebook. It uses a dataset you have
+not seen, 900 visits to an urgent care clinic.
+
+- **The exam:** [Stat_220_Midterm_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice.pdf)
+- **The analysis notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb)
+
+Work the eight tasks in the notebook. The real midterm has the same eight kinds
+of task on a different scenario.
+
 ## Opening a notebook
 
 Two ways, and they produce the same file:
