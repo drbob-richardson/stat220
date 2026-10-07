@@ -58,6 +58,18 @@ belong.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb)
 - **Practice:** [Practice_Prediction.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Prediction.pdf)
 
+## Unit 5: When a Line Is Not Enough
+
+What to do when the straight line is the wrong shape. Reading a residual plot,
+fixing spread that grows with a log, putting curves and interactions in on
+purpose, decision trees and how one is built, and using a tree to find terms
+worth adding to a regression.
+
+- **Slides:** [Unit_05_When_a_Line_Is_Not_Enough.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_05_When_a_Line_Is_Not_Enough.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Practice:** [Practice_Trees.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Trees.pdf)
+
 ## Midterm practice
 
 A full practice midterm in the same shape as the real one: 20 multiple-choice
