@@ -82,6 +82,13 @@ not seen, 900 visits to an urgent care clinic.
 Work the eight tasks in the notebook. The real midterm has the same eight kinds
 of task on a different scenario.
 
+### A second practice paper, multiple choice only
+
+35 questions covering Units 1 through 5, in the same style as the practice
+guides above. No answers on this one: we will go through it together.
+
+- **The questions:** [Stat_220_Midterm_MC_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_MC_Practice.pdf)
+
 ## Opening a notebook
 
 Two ways, and they produce the same file:
