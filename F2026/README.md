@@ -78,6 +78,11 @@ not seen, 900 visits to an urgent care clinic.
 
 - **The exam:** [Stat_220_Midterm_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice.pdf)
 - **The analysis notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb)
+- **The data:** [clinic_visits.csv](https://drbob-richardson.github.io/stat220/F2026/data/clinic_visits.csv), 900 visits
+
+The notebook loads the data over the web, so you do not need to download it
+to work in Colab. The link is there for working offline, or for opening the
+file in something else to look at it.
 
 Work the eight tasks in the notebook. The real midterm has the same eight kinds
 of task on a different scenario.
