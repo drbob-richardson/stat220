@@ -94,6 +94,18 @@ guides above. No answers on this one: we will go through it together.
 
 - **The questions:** [Stat_220_Midterm_MC_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_MC_Practice.pdf)
 
+## The take-home midterm
+
+Thirteen tasks on a dataset you have not seen, 800 repairs at a bicycle shop.
+Worth 100 points. Work the tasks in order; several build on an earlier one.
+
+- **The notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb)
+- **The data:** [repair_jobs.csv](https://drbob-richardson.github.io/stat220/F2026/data/repair_jobs.csv)
+
+The notebook loads the data over the web, so in Colab there is nothing to
+download. Open in Colab, then **File > Save a copy in Drive** before you start
+typing, or your work will not be saved.
+
 ## Opening a notebook
 
 Two ways, and they produce the same file:
