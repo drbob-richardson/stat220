@@ -70,6 +70,19 @@ worth adding to a regression.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb)
 - **Practice:** [Practice_Trees.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Trees.pdf)
 
+## Unit 6: Inference Without a Formula
+
+Getting answers out of a model that has no coefficients and no likelihood.
+What a variable importance score measures and what it does not, why the
+default one credits a column of random digits, permutation importance, and
+the bootstrap: resampling your own data to put an interval on anything at
+all, including quantities no formula covers.
+
+- **Slides:** [Unit_06_Inference_Without_a_Formula.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_06_Inference_Without_a_Formula.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb)
+- **Practice:** [Practice_Resampling.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Resampling.pdf)
+
 ## Midterm practice
 
 A full practice midterm in the same shape as the real one: 20 multiple-choice
