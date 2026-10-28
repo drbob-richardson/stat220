@@ -92,6 +92,7 @@ like, expected value and variance computed off a distribution you wrote down,
 conditional expectation, and where the square root of n comes from.
 
 - **Slides:** [Unit_07_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_07_Probability.pdf)
+- **Practice:** [Practice_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability.pdf)
 
 ## Midterm practice
 
