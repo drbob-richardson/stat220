@@ -83,6 +83,16 @@ all, including quantities no formula covers.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb)
 - **Practice:** [Practice_Resampling.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Resampling.pdf)
 
+## Unit 7: Probability
+
+The machinery the course has been borrowing since Unit 1. Sample spaces and the
+three rules, conditional probability and what independence actually requires,
+reversing a conditional and why a positive test is usually not what it looks
+like, expected value and variance computed off a distribution you wrote down,
+conditional expectation, and where the square root of n comes from.
+
+- **Slides:** [Unit_07_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_07_Probability.pdf)
+
 ## Midterm practice
 
 A full practice midterm in the same shape as the real one: 20 multiple-choice
