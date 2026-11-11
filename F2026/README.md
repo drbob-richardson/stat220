@@ -95,6 +95,20 @@ conditional expectation, and where the square root of n comes from.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb)
 - **Practice:** [Practice_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability.pdf)
 
+## Unit 8: Probability as a Model
+
+Naming a distribution for a quantity, fitting it, and then checking whether it
+belongs. Choosing between the binomial, the Poisson and the normal by asking what
+produced the number, fitting a parameter by likelihood and reading its standard
+error off the curvature of the peak, catching a count whose variance is far larger
+than its mean, the difference between a density and a probability, and a forecast
+that arrives as a whole distribution rather than a single number.
+
+- **Slides:** [Unit_08_Probability_as_a_Model.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_08_Probability_as_a_Model.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb)
+- **Practice:** [Practice_Probability_Models.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability_Models.pdf)
+
 ## Midterm practice
 
 A full practice midterm in the same shape as the real one: 20 multiple-choice
