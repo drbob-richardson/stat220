@@ -18,8 +18,8 @@ Signal against noise, the standard error, the t-statistic, p-values, the two kin
 of error, power, confidence intervals, and the assumptions all of it rests on.
 
 - **Slides:** [Unit_01_Inference.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_01_Inference.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit01_Inference.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit01_Inference.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit01_Inference.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit01_Inference.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit01_Inference.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit01_Inference.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit01_Inference.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit01_Inference.ipynb)
 - **Practice:** [Practice_Inference.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Inference.pdf)
 
 ## Unit 2: A Map of Models
@@ -30,8 +30,8 @@ the five jobs people hand a model, and how to tell whether one model is better
 than another.
 
 - **Slides:** [Unit_02_A_Map_of_Models.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_02_A_Map_of_Models.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit02_Map_of_Models.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit02_Map_of_Models.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit02_Map_of_Models.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit02_Map_of_Models.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit02_Map_of_Models.ipynb)
 - **Practice:** [Practice_Models.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Models.pdf)
 
 ## Unit 3: Linear Regression
@@ -41,8 +41,8 @@ its units and its standard error, residual plots, binary and categorical predict
 interactions, and what happens to a coefficient when another variable joins the model.
 
 - **Slides:** [Unit_03_Linear_Regression.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_03_Linear_Regression.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit03_Regression.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit03_Regression.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit03_Regression.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit03_Regression.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit03_Regression.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit03_Regression.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit03_Regression.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit03_Regression.ipynb)
 - **Practice:** [Practice_Regression.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Regression.pdf)
 
 ## Unit 4: Prediction and Choosing Predictors
@@ -54,8 +54,8 @@ cross-validation, overfitting and underfitting, and how to decide which predicto
 belong.
 
 - **Slides:** [Unit_04_Prediction_and_Choosing_Predictors.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_04_Prediction_and_Choosing_Predictors.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit04_Prediction.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit04_Prediction.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit04_Prediction.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit04_Prediction.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit04_Prediction.ipynb)
 - **Practice:** [Practice_Prediction.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Prediction.pdf)
 
 ## Unit 5: When a Line Is Not Enough
@@ -66,8 +66,8 @@ purpose, decision trees and how one is built, and using a tree to find terms
 worth adding to a regression.
 
 - **Slides:** [Unit_05_When_a_Line_Is_Not_Enough.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_05_When_a_Line_Is_Not_Enough.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit05_When_a_Line_Is_Not_Enough.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit05_When_a_Line_Is_Not_Enough.ipynb)
 - **Practice:** [Practice_Trees.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Trees.pdf)
 
 ## Unit 6: Inference Without a Formula
@@ -79,8 +79,8 @@ the bootstrap: resampling your own data to put an interval on anything at
 all, including quantities no formula covers.
 
 - **Slides:** [Unit_06_Inference_Without_a_Formula.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_06_Inference_Without_a_Formula.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit06_Inference_Without_a_Formula.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit06_Inference_Without_a_Formula.ipynb)
 - **Practice:** [Practice_Resampling.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Resampling.pdf)
 
 ## Unit 7: Probability
@@ -92,7 +92,7 @@ like, expected value and variance computed off a distribution you wrote down,
 conditional expectation, and where the square root of n comes from.
 
 - **Slides:** [Unit_07_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_07_Probability.pdf)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit07_Probability.ipynb)
 - **Practice:** [Practice_Probability.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability.pdf)
 
 ## Unit 8: Probability as a Model
@@ -105,8 +105,8 @@ than its mean, the difference between a density and a probability, and a forecas
 that arrives as a whole distribution rather than a single number.
 
 - **Slides:** [Unit_08_Probability_as_a_Model.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_08_Probability_as_a_Model.pdf)
-- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb)
-- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit08_Probability_as_a_Model.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb)
 - **Practice:** [Practice_Probability_Models.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability_Models.pdf)
 
 ## Midterm practice
@@ -116,7 +116,7 @@ questions, then an analysis you work in a notebook. It uses a dataset you have
 not seen, 900 visits to an urgent care clinic.
 
 - **The exam:** [Stat_220_Midterm_Practice.pdf](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice.pdf)
-- **The analysis notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb)
+- **The analysis notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_Practice_Applied.ipynb)
 - **The data:** [clinic_visits.csv](https://drbob-richardson.github.io/stat220/F2026/data/clinic_visits.csv), 900 visits
 
 The notebook loads the data over the web, so you do not need to download it
@@ -138,7 +138,7 @@ guides above. No answers on this one: we will go through it together.
 Thirteen tasks on a dataset you have not seen, 800 repairs at a bicycle shop.
 Worth 100 points. Work the tasks in order; several build on an earlier one.
 
-- **The notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb) or [download](https://drbob-richardson.github.io/stat220/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb)
+- **The notebook:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Midterm/Stat_220_Midterm_TakeHome.ipynb)
 - **The data:** [repair_jobs.csv](https://drbob-richardson.github.io/stat220/F2026/data/repair_jobs.csv)
 
 The notebook loads the data over the web, so in Colab there is nothing to
@@ -152,10 +152,13 @@ Two ways, and they produce the same file:
 - **Open in Colab.** Nothing to install, and it runs in the browser. Sign in with
   your BYU account. Colab opens it read-only from GitHub, so use **File > Save a
   copy in Drive** before you start typing, or your work will not be saved.
-- **Download it** and run it in Jupyter, VS Code, or anything else that opens a
-  notebook. The homework's first cell installs the packages the assignment uses,
-  so it works on a machine that has none of them. The code companion for the unit
-  uses those same packages.
+- **View and download.** The link opens the notebook on GitHub, which shows it
+  to you in the browser. The download button is in the toolbar above the
+  notebook, the downward arrow at the right end, next to **Raw**. Save the file
+  and run it in Jupyter, VS Code, or anything else that opens a notebook. The
+  homework's first cell installs the packages the assignment uses, so it works
+  on a machine that has none of them. The code companion for the unit uses
+  those same packages.
 
 Either way, run the setup cells at the top before anything else. They install what
 is needed and load the data.
