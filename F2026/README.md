@@ -109,6 +109,16 @@ that arrives as a whole distribution rather than a single number.
 - **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit08_Probability_as_a_Model.ipynb)
 - **Practice:** [Practice_Probability_Models.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Probability_Models.pdf)
 
+## Unit 9: Models with a Distribution and Predictors
+
+Letting a distribution's parameter depend on predictors. Logistic regression for a
+yes-or-no outcome and how to read its coefficients as odds ratios, judging a
+classifier by accuracy, precision, recall, F1 and the ROC curve, choosing a threshold
+from the costs of each kind of mistake, Poisson regression for counts with exposure
+and overdispersion, and the pattern these share as generalized linear models.
+
+- **Slides:** [Unit_09_Models_with_a_Distribution_and_Predictors.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_09_Models_with_a_Distribution_and_Predictors.pdf)
+
 ## Midterm practice
 
 A full practice midterm in the same shape as the real one: 20 multiple-choice
