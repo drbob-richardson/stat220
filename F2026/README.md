@@ -118,6 +118,9 @@ from the costs of each kind of mistake, Poisson regression for counts with expos
 and overdispersion, and the pattern these share as generalized linear models.
 
 - **Slides:** [Unit_09_Models_with_a_Distribution_and_Predictors.pdf](https://drbob-richardson.github.io/stat220/F2026/Slides/Unit_09_Models_with_a_Distribution_and_Predictors.pdf)
+- **Code companion:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit09_Models_with_a_Distribution_and_Predictors.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Notebooks/Code_Unit09_Models_with_a_Distribution_and_Predictors.ipynb)
+- **Homework:** [open in Colab](https://colab.research.google.com/github/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit09_Models_with_a_Distribution_and_Predictors.ipynb) or [view and download](https://github.com/drbob-richardson/stat220/blob/main/F2026/Homework/Stat_220_HW_Unit09_Models_with_a_Distribution_and_Predictors.ipynb)
+- **Practice:** [Practice_Logistic_and_Poisson.pdf](https://drbob-richardson.github.io/stat220/F2026/Practice/Practice_Logistic_and_Poisson.pdf)
 
 ## Midterm practice
 
